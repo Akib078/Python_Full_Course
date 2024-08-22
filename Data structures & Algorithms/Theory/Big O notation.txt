@@ -1,0 +1,13 @@
+# Big O notation is used to measure how running time or space
+requirements for your program grow as input size grows.
+
+# Big O refers to very large value of n. So the rules -
+ i. Keep fastest growing term
+ ii. Drop constants
+
+exp : 5*n2 + 3*n + 20
+- Keep fastest term or big term
+so, 5*n2
+- Drop constants
+so, Time complexcity is n2 or O(n2)
+

@@ -1,0 +1,4 @@
+#Data structures are building blocks or raw material for any 
+software program.
+Exmp : If u want to stores only data of salary of 3 persons then a List will work.
+But if you want to store salary with name of the person then you will need a dictonary.
